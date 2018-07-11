@@ -1,0 +1,4 @@
+#Mon Jul 09 01:48:15 CDT 2018
+base.0=/home/adan/TPDM/analizadorSintactico/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

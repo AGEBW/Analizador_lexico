@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a2d0b6a20923dead04b19c1ce0c7602a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/adan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5d067f3ae98133cf569a140c46da3353/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ecb8974fbac2dad9772c714ff4cd18fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b37ceeb5063009c6f0e6c30c71fbe770/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9eb03313d140c1512549094bdbc88ead/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c0235cba9d96b1ca9e78b1a695d9ac85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/daac3433863c12d82801d55b5c1c6493/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2441df0a2ff940d97955211258a2b8e6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c0e023e82f5b75bf9b8c6be1650b8f0b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/33d28cb39619ccd87a3e323aec04f2d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cdeef675d0990f39cb7b0eb61447a7d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/93c234a1006df5596ea217827fa89864/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/adan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5d067f3ae98133cf569a140c46da3353/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/adan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5d067f3ae98133cf569a140c46da3353/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.adan.analizadorsintactico.MainActivity
+ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a2d0b6a20923dead04b19c1ce0c7602a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a2d0b6a20923dead04b19c1ce0c7602a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/adan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5d067f3ae98133cf569a140c46da3353/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/adan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/5d067f3ae98133cf569a140c46da3353/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ecb8974fbac2dad9772c714ff4cd18fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ecb8974fbac2dad9772c714ff4cd18fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b37ceeb5063009c6f0e6c30c71fbe770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b37ceeb5063009c6f0e6c30c71fbe770/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9eb03313d140c1512549094bdbc88ead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9eb03313d140c1512549094bdbc88ead/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c0235cba9d96b1ca9e78b1a695d9ac85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c0235cba9d96b1ca9e78b1a695d9ac85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/daac3433863c12d82801d55b5c1c6493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/daac3433863c12d82801d55b5c1c6493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2441df0a2ff940d97955211258a2b8e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/adan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2441df0a2ff940d97955211258a2b8e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c0e023e82f5b75bf9b8c6be1650b8f0b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/c0e023e82f5b75bf9b8c6be1650b8f0b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/33d28cb39619ccd87a3e323aec04f2d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/33d28cb39619ccd87a3e323aec04f2d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cdeef675d0990f39cb7b0eb61447a7d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cdeef675d0990f39cb7b0eb61447a7d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/93c234a1006df5596ea217827fa89864/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/adan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/93c234a1006df5596ea217827fa89864/AndroidManifest.xml:20:5-44
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+		ADDED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adan/TPDM/analizadorSintactico/app/src/main/AndroidManifest.xml

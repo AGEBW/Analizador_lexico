@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+
+ <EditText
+     android:layout_width="match_parent"
+     android:layout_height="150dp"
+     android:hint="inserta tu codigo"
+     android:id="@+id/texto"
+     />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="270dp">
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/tipos"
+        >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="15dp"
+            android:text="token"/>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="15dp"
+            android:text="Lexema"/>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="15dp"
+            android:text="Reservada"/>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="15dp"
+            android:text="Patron"/>
+
+    </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+        </TableRow>
+
+    </RelativeLayout>
+
+ <Button
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="analizar"
+     android:layout_gravity="center"
+     android:id="@+id/btn"
+     android:textColor="#0000ff"
+     android:background="#00ff00"
+     />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:id="@+id/error"
+        />
+
+</LinearLayout>
